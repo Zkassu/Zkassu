@@ -1,0 +1,8 @@
+.env
+token.pickle
+replied_ids.json
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.streamlit/secrets.toml
